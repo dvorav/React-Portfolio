@@ -18,9 +18,9 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: "profile.jpg",
-  paragraphOne: "",
-  paragraphTwo: "",
-  paragraphThree: "",
+  paragraphOne: " ",
+  paragraphTwo: " ",
+  paragraphThree: " ",
   resume: "", // if no resume, the button will not show up
 };
 
