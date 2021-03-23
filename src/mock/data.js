@@ -18,8 +18,8 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: "profile.jpg",
-  paragraphOne: " ",
-  paragraphTwo: " ",
+  paragraphOne: "Well-organised person, problem solver, independent employee with high attention to detail. Fan of traveling, trying new things, and outdoor sports. Love to build my ideas, and learn new things",
+  paragraphTwo: " Experience with: HTML, CSS, Javascript, SQL, NOSQL, React ",
   paragraphThree: " ",
   resume: "", // if no resume, the button will not show up
 };
